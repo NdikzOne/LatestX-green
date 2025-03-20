@@ -4,7 +4,7 @@
 
 ---
 
-## step by step✨
+### step by step✨
 
 1. **first step**:
    ```bash
@@ -25,11 +25,17 @@
 
 4. **step four**
    ```javascript
+   npm start
+   ```
+
+5. **step five**
+   ```bash
    You just have to wait until it is finished. Once it is finished, just enter your username and password.
    ```
 
+
 ---
-## Project Structure📑
+### Project Structure📑
 
 ```
 LatestX-green/
