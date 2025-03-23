@@ -82,4 +82,4 @@ displayUI(
 );
 
 //============ { CUSTOM COMMITS } ============\\
-makeCommits(100);
+makeCommits(10000);
